@@ -1,5 +1,5 @@
-# Caesar Cipher Decoder and Encoder
-Do you want to send a message that only your friend can understand? try Caesar Cipher Decoder and Encoder. ㊙️
+# Caesar Cipher Decoder and Encoder ㊙️
+Do you want to send a message that only your friend can understand? try Caesar Cipher Decoder and Encoder. 
 
 <div align="center">
   <br>
